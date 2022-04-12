@@ -12,5 +12,5 @@ student_fname2=CYNTHIA&
 student_lname2=HEDRICK&
 student_email2=std2@t.com&
 parent_email2=rakesh.gopal@transactcampus.com&
-parent_permission2=CN02&
+parent_permission2=CN01,CN02&
 </cashnet>
