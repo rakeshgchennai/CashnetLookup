@@ -1,0 +1,57 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<CustomerLookupResultDS>
+	<LookupResult>
+		<result>0</result>
+		<respmessage>Successful lookup</respmessage>
+		<cust_code>rockytest1</cust_code>
+		<last_name>gopal</last_name>
+		<first_name>rocky</first_name>
+		<address_1/>
+		<address_2/>
+		<address_3/>
+		<city/>
+		<state/>
+		<zip/>
+		<country>USA</country>
+		<area_code/>
+		<phone_number/>
+		<email_id>rakesh.gopal+rockytest@transactcampus.com</email_id>
+		<dob>01/01/2020</dob>
+	</LookupResult>
+	<items>
+		<bill_no>rockyTerm11</bill_no>
+		<item_code>rockyItem11</item_code>
+		<item_description>rocky test item 11 not plan eligible</item_description>
+		<bill_desc>rocky test item 11 not plan eligible</bill_desc>
+		<balance_due>111.00</balance_due>
+		<minimum_due>111.00</minimum_due>
+	</items>
+	<items>
+		<bill_no>rockyTerm12</bill_no>
+		<item_code>rockyItem12</item_code>
+		<item_description>rocky item 12 plan eligible</item_description>
+		<bill_desc>rocky item 12 plan eligible</bill_desc>
+		<balance_due>222.00</balance_due>
+		<minimum_due>222.00</minimum_due>
+	</items>
+	<IPPSourceAmount>
+		<termcode>rockyTerm13</termcode>
+		<term_description>rocky term 13 test</term_description>
+		<ippsourceamountcode>Source13</ippsourceamountcode>
+		<amount>333</amount>
+	</IPPSourceAmount>
+	<IPPSourceAmount>
+		<termcode>rockyTerm14</termcode>
+		<term_description>rocky term 14 test</term_description>
+		<ippsourceamountcode>Source14</ippsourceamountcode>
+		<amount>444</amount>
+	</IPPSourceAmount>
+	<notes>
+		<multi_note_code>rockyno15</multi_note_code>
+		<multi_note_std_view>N</multi_note_std_view>
+	</notes>
+	<notes>
+		<multi_note_code>rockyno16</multi_note_code>
+		<multi_note_std_view>N</multi_note_std_view>
+	</notes>
+</CustomerLookupResultDS>
